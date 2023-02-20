@@ -1,0 +1,32 @@
+
+
+body {
+    font-family: Poppins, 'Noto Sans KR', sans-serif;
+    width: 700px;
+    margin: 50px auto;
+}
+
+div {
+    text-align: center;
+}
+
+img {
+    width: 75%;
+    height: 45%;
+}
+
+.menu {
+    font-size: 18px; 
+    font-weight: 700; 
+    color: #3B3B98;
+}
+
+.background{
+    background-color: #fbfbff;  
+    padding: 20px;
+}
+
+#introduction{
+    font-size: 32px; 
+    padding: 20px;
+}
