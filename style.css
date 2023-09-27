@@ -16,6 +16,20 @@ img {
     height: 45%;
 }
 
+hr{
+    width: 700px; 
+    font-weight: 800;
+    margin: auto;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;    
+}
+
 .menu {
     font-size: 18px; 
     font-weight: 700; 
@@ -27,7 +41,19 @@ img {
     padding: 20px;
 }
 
+#name-en{
+    color: #3B3B98; 
+    font-size: 20px;
+}
+
+
 #introduction{
     font-size: 32px; 
     padding: 20px;
 }
+
+#introduction span{
+    font-weight: 700;
+}
+
+
