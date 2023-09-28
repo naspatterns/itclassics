@@ -46,6 +46,10 @@ a:hover{
     display: center;
 }
 
+.SNS{
+    font-family: 'Courier Prime', monospace;
+}
+
 #introduction{
     font-size: 26px; 
     padding: 0px;
