@@ -24,9 +24,18 @@ a{
     text-decoration: none;
 }
 
-a:hover{
+a.background{
+    color: rgba(0, 0, 0, 0.7);
+}
+
+a:hover{ 
     text-decoration: underline;    
 }
+
+a.background:hover{
+    color: rgba(0, 47, 167, 0.7)
+}
+
 
 .menu {
     font-size: 18px; 
