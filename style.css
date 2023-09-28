@@ -24,16 +24,8 @@ a{
     text-decoration: none;
 }
 
-.background a{
-    color: rgba(0, 0, 0, 0.7);
-}
-
 a:hover{ 
     text-decoration: underline;    
-}
-
-.background a:hover{
-    color: rgba(0, 47, 167, 0.7)
 }
 
 
@@ -57,7 +49,13 @@ a:hover{
 }
 
 .SNS{
+    color: rgba(0, 0, 0, 0.7);
     font-family: 'Courier Prime', monospace;
+}
+
+a.SNS:hover{
+    color: rgba(0, 47, 167, 0.7);
+    text-decoration: underline;
 }
 
 #introduction{
