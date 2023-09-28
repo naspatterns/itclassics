@@ -42,6 +42,9 @@ a:hover{
     text-align: center;
 }
 
+.twitter-follow-button{
+    display: center;
+}
 
 #introduction{
     font-size: 26px; 
